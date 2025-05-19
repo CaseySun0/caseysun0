@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Casey Sun</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center"></h3>
 
 - ⚡ Fun fact **I have two kittens.**
 
